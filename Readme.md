@@ -1,4 +1,4 @@
-This is project is for samvid..hackathon challenge of SSCET Bhilai.
+# Samvid-2.git.io
+The online adaptive assessment platform
 
-Thank you!
-Happy coding!
+Created for Hackathon conducted in Bhilai
